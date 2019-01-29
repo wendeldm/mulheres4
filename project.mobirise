@@ -360,7 +360,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Creative Commons - 2019 \n<br>Feito pela Bitmedias com Mobirise<br>",
+          "text": "Creative Commons - 2019 \n<br>Feito pela <a href=\"http://www.bitmedias.com/\" target=\"_blank\">Bitmedias </a>com Mobirise<br>",
           "_tags": [
             "Theme"
           ],
@@ -368,7 +368,7 @@
           "_anchor": "footer1-7",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           }
         }
@@ -445,14 +445,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Creative Commons - 2019 \n<br>Feito pela Bitmedias com Mobirise<br>",
+          "text": "Creative Commons - 2019 \n<br>Feito pela <a href=\"http://www.bitmedias.com/\" target=\"_blank\">Bitmedias </a>com Mobirise<br>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_anchor": "footer1-b"
@@ -578,14 +578,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Creative Commons - 2019 \n<br>Feito pela Bitmedias com Mobirise<br>",
+          "text": "Creative Commons - 2019 \n<br>Feito pela <a href=\"http://www.bitmedias.com/\" target=\"_blank\">Bitmedias </a>com Mobirise<br>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_anchor": "footer1-m"
@@ -716,14 +716,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Creative Commons - 2019 \n<br>Feito pela Bitmedias com Mobirise<br>",
+          "text": "Creative Commons - 2019 \n<br>Feito pela <a href=\"http://www.bitmedias.com/\" target=\"_blank\">Bitmedias </a>com Mobirise<br>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_anchor": "footer1-r"
