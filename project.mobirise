@@ -17,7 +17,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "siteUrl": "",
-    "uniqCompNum": 36,
+    "uniqCompNum": 4,
     "versionPublish": "4.9.1",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -43,7 +43,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#572d59",
             "hamburgerColor": "#ffffff"
           },
@@ -58,9 +58,7 @@
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#572d59"
             },
-            ".mbr-navbar__section": {
-              "background": "#572d59"
-            },
+            ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
               "color": "#ffffff"
             }
@@ -69,7 +67,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-v2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-com-mulheres-sem-texto-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "logo mulheres da luz",
@@ -389,7 +387,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#572d59",
             "hamburgerColor": "#ffffff"
           },
@@ -415,7 +413,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-v2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-com-mulheres-sem-texto-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "logo mulheres da luz",
@@ -522,7 +520,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#572d59",
             "hamburgerColor": "#ffffff"
           },
@@ -548,7 +546,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-v2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-com-mulheres-sem-texto-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "logo mulheres da luz",
@@ -660,7 +658,7 @@
             "showButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
+            "transparent": true,
             "color": "#572d59",
             "hamburgerColor": "#ffffff"
           },
@@ -686,7 +684,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-v2-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-com-mulheres-sem-texto-128x128.png",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "alt": "logo mulheres da luz",
