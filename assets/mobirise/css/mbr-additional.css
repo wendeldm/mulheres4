@@ -34,6 +34,9 @@
 #social-buttons2-9 .mbr-header__text {
   color: #553982;
 }
+#social-buttons2-9 .mbr-header__text P {
+  text-align: left;
+}
 #footer1-7 P {
   color: #ffffff;
 }
